@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Case Set Not VAT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f1d3fe2c-4e30-4de1-a6f1-158c0b54029b</testCaseGuid>
+</TestCaseEntity>

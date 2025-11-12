@@ -1,0 +1,3 @@
+registeredName,registraionNumber,currency,email,phoneNumber,mccCode,organizationTin,classification,merchantName,merchant City,merchantContryCode,merchantId,acquirerInstitutionId,MerchantGroup
+Spotify UK,222,USD,test@ggg.gg,12121212121,5999,asdsadasdasd,IGAMING_GLOBAL,Spotify,London,UK,11,ADA,1
+Amazon US,3333,JPY,aa@ggg.gg,12121212121,6203,12121,ECOMM_GLOBAL,Amazon US,New york,MY,11,ADA 1,1
