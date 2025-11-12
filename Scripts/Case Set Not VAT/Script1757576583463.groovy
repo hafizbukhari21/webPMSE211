@@ -31,7 +31,7 @@ WebUI.waitForElementPresent(findTestObject('Object Repository/Input Email'), 2)
 WebUI.click(findTestObject('Object Repository/Input Email'))
 WebUI.setText(findTestObject('Object Repository/Input Email'), "apis@jalin.co.id")
 WebUI.click(findTestObject('Object Repository/Input Password'))
-WebUI.setText(findTestObject('Object Repository/Input Password'), "!Medan123456")
+WebUI.setText(findTestObject('Object Repository/Input Password'), "")
 WebUI.click(findTestObject('Object Repository/Button Submit Login'))
 
 //2fa
